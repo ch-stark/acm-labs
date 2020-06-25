@@ -5,4 +5,4 @@ metadata:
   namespace: open-cluster-management
 spec:
   type: GitHub
-  pathname: https://github.com/sacharya/acm-labs.git
+  pathname: https://github.com/ch-stark/acm-labs.git
